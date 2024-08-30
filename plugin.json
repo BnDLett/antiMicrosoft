@@ -1,7 +1,8 @@
 {
-  "name": "Anti-Microsoft Connections",
+  "name": "anti-azure-connections",
+  "displayName": "Anti-Azure Connection",
   "author": "BnDLett",
-  "main": "main.java.org.ddns.antiMicrosoft.Main",
-  "description": "A plugin that prevents Microsoft IPs from connecting to a server.",
+  "main": "main.java.net.ddns.antiMicrosoft.Main",
+  "description": "A plugin that prevents Azure IPs from connecting to a server.",
   "version": "0.1.0"
 }
