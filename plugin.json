@@ -4,5 +4,5 @@
   "author": "BnDLett",
   "main": "main.java.net.ddns.antiMicrosoft.Main",
   "description": "A plugin that prevents Azure IPs from connecting to a server.",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
