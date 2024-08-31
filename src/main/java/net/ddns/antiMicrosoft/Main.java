@@ -28,9 +28,9 @@ public class Main extends Plugin {
                 if (bufferedReader.readLine().length() <= 2) {
                     return;
                 }
-                event.player.kick("Using Azure servers to connect to the mindustry.ddns.net network is not" +
-                        " permitted. If you believe that this was a mistake, then please contact [#ff5a00]bndlett[] or" +
-                        " a similar staff member (i.e. [#ff3f00]xasmedy[] or [#d7342a]chefe[]) via our Discord server.");
+                event.player.kick("Using Azure servers to connect to this server is not permitted. If you believe" +
+                        " that this was a mistake, then please contact [#ff5a00]bndlett[] or  a similar staff member" +
+                        " (i.e. [#ff3f00]xasmedy[] or [#d7342a]chefe[]) via our Discord server.");
 
             } catch (IOException e) {
                 Log.warn(String.format("An IOException has occurred: %s", e.getMessage()));
