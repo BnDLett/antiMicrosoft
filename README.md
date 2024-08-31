@@ -13,3 +13,6 @@ latest version is entirely up to your needs. However, if you just want it to wor
 3. Cut or copy the installed .jar file into the `config/mods` directory. If you do not know how to get there, then go to
 the root of your Mindustry server, open the `config` folder, and then open the `mods` folder.
 4. Run the server and ensure that it is working. If it isn't working, then open an issue in this GitHub repository.
+
+# Most Stable Versions
+v1.0.0
